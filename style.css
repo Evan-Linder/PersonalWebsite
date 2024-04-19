@@ -1,0 +1,21 @@
+body {
+    background-color:aqua;
+}
+
+.title {
+    font-size: 17px;
+    padding-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
+
+.intro {
+    font-size: 20px;
+    padding-left: 50px;
+}
+
+.selfDescription {
+    font-size: 20px;
+    padding-left: 50px;
+}
+
